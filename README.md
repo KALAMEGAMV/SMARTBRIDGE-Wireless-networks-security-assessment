@@ -1,5 +1,5 @@
 # SMARTBRIDGE-Wireless-networks-security-assessment
-- Assignments can be accessed from the Assignments forlder and sub-folders contain each team member's all the 3 assignments
+- Assignments can be accessed from the Assignments folder and sub-folders contain each team member's all the 3 assignments
  1. Monica P
     - Assessment 1 - https://drive.google.com/file/d/199quyk7ok259lIwv_i-tDKi-xDC04xET/view?usp=share_link
     - Assessment 2 - https://drive.google.com/file/d/19hnsaaaobSDiT-xJzShmv83W_vZP6K4o/view?usp=share_link
